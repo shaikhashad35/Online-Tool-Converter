@@ -1,8 +1,6 @@
 # Online-Tool-Converter
 
-# OnlineToolConverter
-
-**OnlineToolConverter** is a free online platform offering a variety of tools for PDF management, financial calculations, image processing, and AI-powered utilities. The tools are designed to be user-friendly, efficient, and accessible to everyone.
+**OnlineToolConverter** is a free online platform offering a variety of tools for PDF management, financial calculations, image processing, and AI-powered utilities. The tools are designed to be user-friendly, efficient, and accessible to everyone. Whole project is built using prompt with Chatgpt, Github Copilot.
 
 ## Features
 
